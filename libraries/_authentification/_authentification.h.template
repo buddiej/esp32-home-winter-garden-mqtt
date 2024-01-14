@@ -1,1 +1,6 @@
+const char* ssid = "NETWORK_NAME";
+const char* password = "NETWORK_PASSWORD";
+const char* serverHostname = "MQTT_NETWORK_IP";
+const String serverUsername = "MQTT_USER_NAME";
+const String serverPassword = "MQTT_USER_PASSWD";
 
